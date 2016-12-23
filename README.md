@@ -1,5 +1,5 @@
-# nossiApp
-App for getting prospective students information
+# Hi world
+an introduction
 
 graphic Design student in Nashville, Tn
 28, Male, grilled cheese Chef
